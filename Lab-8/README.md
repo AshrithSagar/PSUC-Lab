@@ -63,6 +63,10 @@ int Largest( int *arr , int arr_len )
 }
 ```
 
+### Output
+
+![Q4-Output](Q4-Output.png)
+
 ---
 
 ## Question 5
@@ -133,5 +137,9 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q5-Output](Q5-Output.png)
 
 ---
