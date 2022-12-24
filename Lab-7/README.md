@@ -52,6 +52,14 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q1-Output](Q1-Output-1.png)
+
+![Q1-Output](Q1-Output-2.png)
+
+![Q1-Output](Q1-Output-3.png)
+
 ---
 
 ## Question 2
@@ -99,6 +107,12 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q2-Output](Q2-Output-1.png)
+
+![Q2-Output](Q2-Output-2.png)
 
 ---
 
@@ -163,5 +177,9 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q3-Output](Q3-Output.png)
 
 ---
