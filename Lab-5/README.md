@@ -62,6 +62,10 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q1-Output](Q1-Output.png)
+
 ---
 
 ## Question 2
@@ -129,6 +133,12 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q2-Output](Q2-Output-1.png)
+
+![Q2-Output](Q2-Output-2.png)
 
 ---
 
@@ -248,6 +258,12 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q3-Output](Q3-Output-1.png)
+
+![Q3-Output](Q3-Output-2.png)
+
 ---
 
 ## Question 4
@@ -313,6 +329,10 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q4-Output](Q4-Output.png)
 
 ---
 
@@ -411,5 +431,13 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q5-Output](Q5-Output-1.png)
+
+![Q5-Output](Q5-Output-2.png)
+
+![Q5-Output](Q5-Output-3.png)
 
 ---
