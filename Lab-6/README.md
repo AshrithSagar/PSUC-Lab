@@ -83,6 +83,14 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q1-Output](Q1-Output-1.png)
+
+![Q1-Output](Q1-Output-2.png)
+
+![Q1-Output](Q1-Output-3.png)
+
 ---
 
 ## Question 2
@@ -168,6 +176,12 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q2-Output](Q2-Output-1.png)
+
+![Q2-Output](Q2-Output-2.png)
 
 ---
 
@@ -274,6 +288,12 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q3-Output](Q3-Output-1.png)
+
+![Q3-Output](Q3-Output-2.png)
+
 ---
 
 ## Question 4
@@ -352,6 +372,12 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q4-Output](Q4-Output-1.png)
+
+![Q4-Output](Q4-Output-2.png)
 
 ---
 
@@ -463,6 +489,14 @@ int main() // Start main.
 } // End.
 ```
 
+### Output
+
+![Q5-Output](Q5-Output-1.png)
+
+![Q5-Output](Q5-Output-2.png)
+
+![Q5-Output](Q5-Output-3.png)
+
 ---
 
 ## Question 6
@@ -540,5 +574,13 @@ int main() // Start main.
 
 } // End.
 ```
+
+### Output
+
+![Q6-Output](Q6-Output-1.png)
+
+![Q6-Output](Q6-Output-2.png)
+
+![Q6-Output](Q6-Output-3.png)
 
 ---
